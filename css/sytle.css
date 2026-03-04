@@ -1,4 +1,18 @@
-h1 {
-color: rgb(255, 0, 170)
-text
+body{
+    text-align: center;
+    background-color: aqua;
+}
+header{
+    color: rgb(242, 0, 255);
+     background-color: rgba(255, 255, 255, 0.664);
+     padding: 50px;
+     border-radius: 10px;
+     align-items: center;
+     display: flex;
+     gap: 30px;
+}
+img{
+    width: 200px;
+    height: 300px;
+    align-items: center;
 }
