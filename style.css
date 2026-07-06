@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.topo {
+    text-align: center;
+    background: #7078eb;
+    padding: 30px;
+}
+
+.topo img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 0 15px;
+}
+
+.cartao {
+    background: #fff;
+    padding: 20px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+.sub-item {
+    margin-top: 15px;
+}
+
+blockquote {
+    font-style: italic;
+    border-left: 3px solid #333;
+    padding-left: 10px;
+    margin: 0;
+}
+
+.rodape {
+    text-align: center;
+    font-size: 0.8rem;
+    color: #777;
+}
