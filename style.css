@@ -10,6 +10,7 @@ body {
     text-align: center;
     background: #7078eb;
     padding: 30px;
+    flex-direction:column;
 }
 
 .topo img {
